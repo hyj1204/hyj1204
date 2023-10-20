@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on developing apps using Flutter
-- 🌱 I start learning Rust 🦀 recently
 - 👯 I’m looking to contribute to open source projects of Flutter
 - 💬 Ask me about Chinese food 🥘
 - 😄 Pronouns: She/Her
