@@ -4,7 +4,6 @@
 - 👯 I’m looking to contribute to open source projects of Flutter
 - 💬 Ask me about Chinese food 🥘
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I live with a pudding dog 🍮
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-hyj1204.vercel.app/api?username=hyj1204&count_private=true&show_icons=true&custom_title=Yijing's%20GitHub%20Stat)
